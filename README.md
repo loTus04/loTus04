@@ -1,4 +1,4 @@
-[![Header](https://github.com/loTus04/loTus04/blob/main/img/cbpuunk_bg.gif "Header")](https://github.com/loTus04)
+[![Header](https://github.com/loTus04/loTus04/blob/main/img/cbpuunk_bg.gif width="640" height="360" "Header")](https://github.com/loTus04)
 
 # Hello, folks! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
 I am a young passionate about cybersecurity and IT in general. I mainly program in python but I also learn other languages.
@@ -17,8 +17,8 @@ I am a young passionate about cybersecurity and IT in general. I mainly program 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/loTus04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loTus04&hide=java,html&title_color=ee82ee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loTus04&hide=java,html&title_color=ee82ee&text_color=ee82ee&icon_color=ee82ee&bg_color=301934" />
 </a>
 <a href="https://github.com/loTus04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loTus04&show_icons=true&line_height=27&count_private=true&title_color=ee82ee&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="loTus04's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loTus04&show_icons=true&line_height=27&count_private=true&title_color=ee82ee&text_color=ee82ee&icon_color=ee82ee&bg_color=301934" alt="loTus04's GitHub Stats" />
 </a>
