@@ -1,4 +1,4 @@
-[![Header](https://github.com/loTus04/loTus04/blob/main/img/cbpuunk_bg.gif "Header")](https://github.com/loTus04)
+[![Header](https://github.com/loTus04/loTus04/blob/main/img/cbpuunk_bg.gif width="640" height="360" "Header")](https://github.com/loTus04)
 
 # Hello, folks! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
 I am a young passionate about cybersecurity and IT in general. I mainly program in python but I also learn other languages.
