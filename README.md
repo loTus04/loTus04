@@ -1,7 +1,7 @@
 [![Header](https://github.com/loTus04/loTus04/blob/main/img/cbpuunk_bg.gif "Header")](https://github.com/loTus04)
 
 # Hello, folks! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
-I am a young passionate about cybersecurity and IT in general. I mainly program in python and never forget; Python > * !.
+I am a young passionate about cybersecurity and IT in general. I mainly program in python and never forget: Python > * !
 
 ### Info >
 - 👨‍💻 15 years
