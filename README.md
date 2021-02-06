@@ -1,4 +1,4 @@
-<img align='left' src="https://github.com/loTus04/ghost/blob/main/img/a5b4f526fc905806a9b38b839d49f838.gif" width="230">
+<img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
 
 # Hello, folks! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
 I am a young passionate about cybersecurity and IT in general. I mainly program in python and never forget: Python > * !
