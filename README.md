@@ -1,7 +1,8 @@
 <img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
 
-# Hello, folks! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
-I am a young passionate about cybersecurity and IT in general. I mainly program in python and never forget: Python > * !
+# Hellooooo,! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
+I am a young passionate about cybersecurity and IT in general. I mainly program in python. Get ready to see one of the best python content of all Github ! (Just kidding, Im shit)
+Never forget: Python > * !
 
 ### Info >
 - 👨‍💻 15 years
