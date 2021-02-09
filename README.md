@@ -27,9 +27,12 @@ Never forget: Python > * !
 
 <a href="https://github.com/loTus04">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loTus04&hide=java,html&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
+  
 </a>
+
 <a href="https://github.com/loTus04">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=loTus04&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="loTus04's GitHub Stats" />
 </a>
+<a href="https://github.com/loTus04">
   <img src="https://tryhackme-badges.s3.amazonaws.com/loTus.png" alt="TryHackMe"/>
 </a>
