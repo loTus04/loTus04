@@ -35,5 +35,5 @@ Never forget: Python > * !
 </a>
 </br>
 <a href="https://github.com/loTus04">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/loTus.png" alt="TryHackMe"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/loTus.png" alt="TryHackMe">
 </a>
