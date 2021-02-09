@@ -1,6 +1,8 @@
 
 <img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/loTus.png">
+
 # Hellooooo there! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
 I am a young passionate about cybersecurity and IT in general. I mainly program in python. Get ready to see one of the best python content of all Github !    ( Haha, just kidding)
 </br>
@@ -34,4 +36,3 @@ Never forget: Python > * !
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=loTus04&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="loTus04's GitHub Stats" />
 </a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/loTus.png">
