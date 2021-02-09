@@ -1,8 +1,6 @@
 
 <img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/loTus.png">
-
 # Hellooooo there! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
 I am a young passionate about cybersecurity and IT in general. I mainly program in python. Get ready to see one of the best python content of all Github !    ( Haha, just kidding)
 </br>
