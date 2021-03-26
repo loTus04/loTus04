@@ -21,7 +21,7 @@ Never forget: Python > * !
 - 👨‍💻 TryHackMe : [Click](https://tryhackme.com/p/loTus)
 - 🧠 Root-Me : [Click](https://www.root-me.org/loTus01)
 - 🖤 Github : [Click](https://github.com/loTus04)
-- 💬 Discord : loTus01#7075
+- 💬 Discord : loTus01#0001
 
 ## &#x1f4c8; GitHub Stats
 
