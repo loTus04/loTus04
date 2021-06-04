@@ -32,9 +32,16 @@ Never forget: Python > * !
 
 ## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/xiaotox-devfr?tab=followers">
+  <img src="https://img.shields.io/github/followers/loTus04">
+</a>
+
+<a href="https://github.com/loTus04">
+   <img src="https://komarev.com/ghpvc/?username=loTus04">
+</a>
+
 <a href="https://github.com/loTus04">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loTus04&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
-  
 </a>
 
 <a href="https://github.com/loTus04">
