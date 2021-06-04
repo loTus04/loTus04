@@ -16,13 +16,20 @@ Never forget: Python > * !
 - 🇫🇷 French
 - 🎮 Gammer
 
-
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
 - 👨‍💻 TryHackMe : [Click](https://tryhackme.com/p/loTus)
 - 🧠 Root-Me : [Click](https://www.root-me.org/loTus01)
 - 📦 HackTheBox : [Click](https://app.hackthebox.eu/profile/393384)
 - 🖤 Github : [Click](https://github.com/loTus04)
 - 💬 Discord : loTus01#0001
+
+## 🏆 𝚂𝚔𝚒𝚕𝚕𝚜
+- ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
 
 ## &#x1f4c8; GitHub Stats
 
