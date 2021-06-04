@@ -26,7 +26,7 @@ Never forget: Python > * !
 ## 🏆 𝚂𝚔𝚒𝚕𝚕𝚜
 - ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/DEV-Batch-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/DEV-Php-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/DEV-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=FF0000)
 - ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=FF0000)
 
