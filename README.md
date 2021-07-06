@@ -21,7 +21,7 @@ Never forget: Python > * !
 - 🧠 Root-Me : [Click](https://www.root-me.org/loTus01)
 - 📦 HackTheBox : [Click](https://app.hackthebox.eu/profile/393384)
 - 🖤 Github : [Click](https://github.com/loTus04)
-- 💬 Discord : loTus05#0001
+- 💬 Discord : loTus01#0005
 
 ## 🏆 𝚂𝚔𝚒𝚕𝚕𝚜
 - ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
