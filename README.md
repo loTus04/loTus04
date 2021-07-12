@@ -20,7 +20,6 @@ Never forget: Python > * !
 - 👨‍💻 TryHackMe : [Click](https://tryhackme.com/p/loTus)
 - 🧠 Root-Me : [Click](https://www.root-me.org/loTus01)
 - 📦 HackTheBox : [Click](https://app.hackthebox.eu/profile/393384)
-- 🖤 Github : [Click](https://github.com/loTus04)
 - 💬 Discord : loTus01#0005
 
 ## 🏆 Skills and Tools
