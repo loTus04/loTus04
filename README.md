@@ -14,7 +14,7 @@ Never forget: Python > * !
 - 🖥 Python developer
 - 💼 15 years
 - 🇫🇷 French
-- 🎮 Gammer
+- 🎮 Gamer
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
 - 👨‍💻 TryHackMe : [Click](https://tryhackme.com/p/loTus)
