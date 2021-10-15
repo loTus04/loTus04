@@ -2,7 +2,7 @@
 <img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
 
 # Hellooooo there! <img src="https://github.com/loTus04/loTus04/blob/main/img/wave.gif" width="30px">
-I am a young passionate about cybersecurity and IT in general. I mainly program in python. Get ready to see one of the best python content of all Github ! </br>( Haha, just kidding)
+I am a young passionate about cybersecurity and IT in general. I mainly program in python. 
 </br>
 Never forget: Python > * !
 </br>
