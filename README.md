@@ -1,5 +1,4 @@
-
-
+[W4SP repo got termed :( ]
 ```python
 ┌──(loTus04㉿root)-[~/devlab]
 └─$ cat lotus04.py
@@ -9,7 +8,8 @@ class lotus04:
     def __info__(self):
         self.bio = '''
             I am a young passionate about cybersecurity and IT in general.
-            I mainly program in python.'''
+            I mainly program in python.
+            Dev of the well known W4SP Stealer (lots of skids out there claiming its theres)'''
         self.age = 16
 
     def  __social__(self):
