@@ -10,7 +10,7 @@ class lotus04:
             I am a young passionate about cybersecurity and IT in general.
             I mainly program in python.
             Dev of the well known W4SP Stealer (lots of skids out there claiming its theres)'''
-        self.age = 16
+        self.age = 17
 
     def  __social__(self):
         self.thm = "https://tryhackme.com/p/loTus"
