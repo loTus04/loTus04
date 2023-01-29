@@ -1,4 +1,3 @@
-[W4SP repo got termed :( ]
 ```python
 ┌──(loTus04㉿root)-[~/devlab]
 └─$ cat lotus04.py
