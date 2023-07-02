@@ -8,13 +8,13 @@ class lotus04:
         self.bio = '''
             I am a young passionate about cybersecurity and IT in general.
             I mainly program in python.
-            Dev of the well known W4SP Stealer'''
+            Dev of the W4SP Stealer'''
         self.age = 17
 
     def  __social__(self):
         self.thm = "https://tryhackme.com/p/loTus"
         self.htb = "https://app.hackthebox.com/profile/393384"
-        self.dsc = ("loTus01#0002", 1060811799949226004)
+        self.dsc = ("w_i", 1060811799949226004)
     
     def __dev__(self):
         self.skills = {
