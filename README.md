@@ -14,7 +14,7 @@ class lotus04:
     def  __social__(self):
         self.thm = "https://tryhackme.com/p/loTus"
         self.htb = "https://app.hackthebox.com/profile/393384"
-        self.dsc = ("w_i", 1060811799949226004)
+        self.dsc = ("1.7", 1098223163978039307)
     
     def __dev__(self):
         self.skills = {
