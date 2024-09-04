@@ -30,7 +30,7 @@ class lotus04:
 
 
 
-<a href="https://github.com/xiaotox-devfr?tab=followers">
+<a href="https://github.com/loTus04?tab=followers">
   <img src="https://img.shields.io/github/followers/loTus04">
 </a>
 
